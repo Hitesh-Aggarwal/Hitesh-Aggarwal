@@ -2,7 +2,7 @@
 
 ## I'm a Student at Thapar Institute of Engineering and Technology, Patiala
 
-- 🌱 I’m currently learning everything I can🤣
+- 🌱 I’m currently learning Web Development 😁
 - 🥅 2022 Goals: Learn more about WebDevelopment
 
 <br />
