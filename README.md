@@ -23,7 +23,7 @@
 <br />
 <br />
 
-#### Greetins!! My name is Hitesh Aggarwal, and I am a freshman studing Computer Engineering at [Thapar Institute of Engineering and Technology, Patiala](https://www.thapar.edu/). I may be new to the world of coding, but I am looking forward to learn and collaborate with everyone!
+#### Greetings!! My name is Hitesh Aggarwal, and I am a freshman studing Computer Engineering at [Thapar Institute of Engineering and Technology, Patiala](https://www.thapar.edu/). I am new to coding, but I am looking forward to learn it and contribute to the world!
 
 <br />
 <br />
@@ -41,8 +41,8 @@
 ![CSS](./images/css.png)
 ![Javascript](./images/javascript.png)
 ![C](./images/c.png)
-![Java](./images/java-logo3.png)
 <img src="./images/c++.png" alt="C++" width="48" />
+<img src="./images/java-logo3.png" alt="Java" width="48" />
 
 <br />
 <br />
