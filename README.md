@@ -13,7 +13,7 @@
 
 <br />
 
-<img src=".images/0294.jpg" alt="Banner" width="1000">
+<img src="./images/0294.jpg" alt="Banner" width="1000">
 
 <br />
 
@@ -41,7 +41,7 @@
 ![CSS](./images/css.png)
 ![Javascript](./images/javascript.png)
 ![C](./images/c.png)
-![Java](./images.java-logo3.png)
+![Java](./images/java-logo3.png)
 <img src="./images/c++.png" alt="C++" width="48" />
 
 <br />
@@ -60,10 +60,10 @@
 
 <br />
 
-[![Rishabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rishabhgl&show_icons=true&theme=gruvbox)](https://github.com/api/rishabhgl/github-readme-stats)
+[![Hitesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hitesh-Aggarwal&show_icons=true&theme=gruvbox)](https://github.com/api/Hitesh-Aggarwal/github-readme-stats)
 
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhgl&show_icons=true&theme=gruvbox)](https://github.com/\rishabhgl/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hitesh-Aggarwal&show_icons=true&theme=gruvbox)](https://github.com/\Hitesh-Aggarwal/github-readme-stats)
 
 
