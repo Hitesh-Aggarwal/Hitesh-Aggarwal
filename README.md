@@ -23,7 +23,7 @@
 <br />
 <br />
 
-#### Greetings!! My name is Hitesh Aggarwal, and I am a freshman studing Computer Engineering at [Thapar Institute of Engineering and Technology, Patiala](https://www.thapar.edu/). I am new to coding, but I am looking forward to learn it and contribute to the world!
+#### Greetings!! My name is Hitesh Aggarwal, and I am a fresherman studing Computer Engineering at [Thapar Institute of Engineering and Technology, Patiala](https://www.thapar.edu/). I am new to coding, but I am looking forward to learn it and contribute to the world!
 
 <br />
 <br />
