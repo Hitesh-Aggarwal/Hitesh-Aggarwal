@@ -5,9 +5,7 @@
 <br />
 <br />
 
-#### Hi!! My name is Hitesh Aggarwal, and I am a 2nd year student of Computer
-Engineering at [Thapar Institute of Engineering and Technology,
-Patiala](https://www.thapar.edu/).
+#### Hi!! My name is Hitesh Aggarwal, and I am a 2nd year student of Computer Engineering at [Thapar Institute of Engineering and Technology, Patiala](https://www.thapar.edu/).
 
 <br />
 <br />
