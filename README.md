@@ -1,9 +1,7 @@
 # My GitHub profile:
 
 <img align="right" src="https://komarev.com/ghpvc/?username=hitesh-aggarwal&color=orange" />
-
-<br />
-<br />
+<br>
 
 #### Hi!! My name is Hitesh Aggarwal, and I am a 2nd year student of Computer Engineering at [Thapar Institute of Engineering and Technology, Patiala](https://www.thapar.edu/).
 
