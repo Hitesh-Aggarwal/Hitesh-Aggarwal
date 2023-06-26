@@ -3,16 +3,15 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=hitesh-aggarwal&color=orange" />
 <br>
 
-#### Hi!! My name is Hitesh Aggarwal, and I am a 2nd year student of Computer Engineering at [Thapar Institute of Engineering and Technology, Patiala](https://www.thapar.edu/).
+#### Hi, I am Hitesh Aggarwal, a 3rd year student of Computer Engineering at [Thapar Institute of Engineering and Technology, Patiala](https://www.thapar.edu/).
 
 <br />
 <br />
 
 ### A short introduction:
-* 🌎I am currently exploring Data Structures and Algorithms
-* ✌️Looking forward to learn Full Stack Web Development
-* ❤️I can type at around 65 wpm.😁
-
+* 🌎 I am currently studying design and analysis of Algorithms.
+* ✌️  Looking forward to learn Go programming.
+* Full Stack seems interesting too.🤪
 <br />
 <br />
 
@@ -21,15 +20,17 @@
 ![CSS](./images/css.png)
 ![Javascript](./images/javascript.png)
 ![C](./images/c.png)
+<a href="https://www.python.org/"><img src="./images/python-logo-master-v3-TM.png" alt="python" width="48" /></a>
+<a href="https://www.lua.org/"><img src="./images/lua.png" alt="lua" width="48" /></a>
 <img src="./images/c++.png" alt="C++" width="48" />
-<img src="./images/java-logo3.png" alt="Java" width="48" />
+<a href="https://www.java.com/en/"><img src="./images/java-logo3.png" alt="Java" width="48" /></a>
 
 <br />
 <br />
 
 ### Contact me 📝-
 [![LinkedIn](./images/linkedin.png)](https://www.linkedin.com/in/hitesh-aggarwal-808015239/)
-<a href="mailto:aggarwal33231@gmail.com">
+<a href="mailto:haggarwal_b21@thapar.edu">
         <img src="./images/gmail.png" width="70" />
 </a>
 
@@ -40,8 +41,8 @@
 
 <br />
 
-[![Hitesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hitesh-Aggarwal&show_icons=true&theme=gruvbox)](https://github.com/api/Hitesh-Aggarwal/github-readme-stats)
+[![Hitesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hitesh-Aggarwal&show_icons=true&theme=dracula)](https://github.com/api/Hitesh-Aggarwal/github-readme-stats)
 
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hitesh-Aggarwal&show_icons=true&theme=gruvbox)](https://github.com/\Hitesh-Aggarwal/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hitesh-Aggarwal&show_icons=true&theme=dracula)](https://github.com/\Hitesh-Aggarwal/github-readme-stats)
